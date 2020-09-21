@@ -1,0 +1,9 @@
+
+git clone https://github.com/audreyaugenbraum/Computational-Social-Science-Projects.git
+cd ../audreyaugenbraum/Computational-Social-Science-Projects/
+mkdir Project1
+cd ../audreyaugenbraum/Computational-Social-Science-Projects/Project1
+vim proj1.txt
+git add *
+git commit -m "created project folder and text file"
+git push
